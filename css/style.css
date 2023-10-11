@@ -130,11 +130,11 @@ ul li:last-child {
   margin: 0;
 }
 
-#products {
+.flavours {
   margin: 0;
 }
 
-#products:after {
+.flavours:after {
   content: "";
   display: block;
   height: 0.25em;
@@ -361,5 +361,4 @@ article {
     margin: 0;
     padding-top: 0;
   }
-
-}
+}}
